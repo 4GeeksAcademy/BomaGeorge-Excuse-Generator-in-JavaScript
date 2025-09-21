@@ -1,5 +1,17 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    display: flex;
+    margin: 100px;
+    padding: 10px;
     background: white;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+p{
+    padding: 20px;
+    background-color: rgb(193, 193, 193);
+
 }
